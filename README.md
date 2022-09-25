@@ -7,3 +7,4 @@
 ##### проигнорирован файл terraform.rc и файл .terraformr
 ##### new line
 ##### new line of pycharm
+##### pycharm
