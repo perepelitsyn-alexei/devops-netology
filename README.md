@@ -6,3 +6,4 @@
 ##### проигнорированы файл override.tf , файл override.tf.json , файлы *_override.tf и  *_override.tf.json
 ##### проигнорирован файл terraform.rc и файл .terraformr
 ##### new line
+##### new line of pycharm
